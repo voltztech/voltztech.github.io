@@ -3,7 +3,7 @@ function CreateWhatsappChatWidget(option = {
         autoShow: true,
         backgroundColor: "#0a6114",
         borderRadius: "25",
-        brandImg: "https://zonemedia.co/zone_sq_logo.png",
+        brandImg: "https://zonemedia.co/images/zone_sq_logo.png",
         brandImgData: null,
         brandName: "Whizard API",
         brandSubTitle: "Typically replies within a day",
